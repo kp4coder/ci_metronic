@@ -283,9 +283,9 @@ $config['ci_metronic'] = array(
 	'adminlte' => array(
 		'body_class' => array(
 			'webmaster'	=> 'header-fixed header-tablet-and-mobile-fixed toolbar-enabled toolbar-fixed aside-enabled aside-fixed',
-			'admin'		=> 'skin-purple',
-			'manager'	=> 'skin-black',
-			'staff'		=> 'skin-blue',
+			'admin'		=> 'header-fixed header-tablet-and-mobile-fixed toolbar-enabled toolbar-fixed aside-enabled aside-fixed',
+			'manager'	=> 'header-fixed header-tablet-and-mobile-fixed toolbar-enabled toolbar-fixed aside-enabled aside-fixed',
+			'staff'		=> 'header-fixed header-tablet-and-mobile-fixed toolbar-enabled toolbar-fixed aside-enabled aside-fixed',
 		)
 	),
 
